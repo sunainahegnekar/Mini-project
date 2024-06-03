@@ -1,0 +1,31 @@
+#Start{
+
+position: absolute;
+padding: 15px;
+left: 40%;
+background-color:black;
+color: white;
+font-weight: 600;
+font-size: larger;
+border-radius: 5px;
+border: 2px solid orange;
+}
+
+#Stop{
+
+    position: absolute;
+    padding: 15px;
+    left: 50%;
+    background-color:black;
+    color: white;
+    font-weight: 600;
+    font-size: larger;
+    border-radius: 5px;
+    border: 2px solid orange;
+    
+    }
+
+    h1{
+        margin-bottom: 50px;
+        margin-left: 37%;
+    }
